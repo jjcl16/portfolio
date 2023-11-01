@@ -313,3 +313,30 @@ li:hover {
     width: 100%;
     height: auto;
   }
+  
+
+  a{
+    text-decoration: none;
+  }
+
+  .links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+
+  #foot{
+    font-family: 'SometypeMono';
+    font-size: 1.1rem;
+    color: white;
+    
+
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    
+    padding: 1% 0px 1% 0px;
+  }
